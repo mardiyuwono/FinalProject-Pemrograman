@@ -1,0 +1,16 @@
+c:\users\asus-kl\documents\visual studio 2015\Projects\FinalProject-Pemrograman\FinalProject-Pemrograman\bin\Debug\FinalProject-Pemrograman.exe.config
+c:\users\asus-kl\documents\visual studio 2015\Projects\FinalProject-Pemrograman\FinalProject-Pemrograman\obj\Debug\FinalProject-Pemrograman.csprojResolveAssemblyReference.cache
+c:\users\asus-kl\documents\visual studio 2015\Projects\FinalProject-Pemrograman\FinalProject-Pemrograman\bin\Debug\FinalProject-Pemrograman.exe
+c:\users\asus-kl\documents\visual studio 2015\Projects\FinalProject-Pemrograman\FinalProject-Pemrograman\bin\Debug\FinalProject-Pemrograman.pdb
+c:\users\asus-kl\documents\visual studio 2015\Projects\FinalProject-Pemrograman\FinalProject-Pemrograman\obj\Debug\FinalProject-Pemrograman.exe
+c:\users\asus-kl\documents\visual studio 2015\Projects\FinalProject-Pemrograman\FinalProject-Pemrograman\obj\Debug\FinalProject-Pemrograman.pdb
+F:\FINAL PROJECT\FinalProject-Pemrograman\FinalProject-Pemrograman\obj\Debug\FinalProject-Pemrograman.csprojAssemblyReference.cache
+F:\FINAL PROJECT\FinalProject-Pemrograman\FinalProject-Pemrograman\obj\Debug\FinalProject-Pemrograman.csproj.CoreCompileInputs.cache
+F:\FINAL PROJECT\FinalProject-Pemrograman\FinalProject-Pemrograman\obj\Debug\FinalProject-Pemrograman.exe
+F:\FINAL PROJECT\FinalProject-Pemrograman\FinalProject-Pemrograman\obj\Debug\FinalProject-Pemrograman.pdb
+F:\FINAL PROJECT\FinalProject-Pemrograman\FinalProject-Pemrograman\bin\Debug\FinalProject-Pemrograman.exe.config
+F:\FINAL PROJECT\FinalProject-Pemrograman\FinalProject-Pemrograman\bin\Debug\FinalProject-Pemrograman.exe
+F:\FINAL PROJECT\FinalProject-Pemrograman\FinalProject-Pemrograman\bin\Debug\FinalProject-Pemrograman.pdb
+D:\1. Kuliah Online\Semester 2\2. UAS 2020\Pemrograman\FinalProject-Pemrograman\FinalProject-Pemrograman\bin\Debug\FinalProject-Pemrograman.exe.config
+D:\1. Kuliah Online\Semester 2\2. UAS 2020\Pemrograman\FinalProject-Pemrograman\FinalProject-Pemrograman\obj\Debug\FinalProject-Pemrograman.exe
+D:\1. Kuliah Online\Semester 2\2. UAS 2020\Pemrograman\FinalProject-Pemrograman\FinalProject-Pemrograman\obj\Debug\FinalProject-Pemrograman.pdb
